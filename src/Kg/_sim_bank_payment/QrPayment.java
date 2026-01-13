@@ -3,6 +3,6 @@ package Kg._sim_bank_payment;
 public class QrPayment {
     public static void main(String[] args) {
         System.out.println("первая транщакция");
-
+        System.out.println();
     }
 }
